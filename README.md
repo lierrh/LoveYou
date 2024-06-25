@@ -12,9 +12,3 @@ writes "love you" on the screen
 `cd LoveYou/`
 
 `python loveyou.py`
-
-# Contact 
-~ https://instagram.com/piersym667 ~
-
-
-
